@@ -1,5 +1,6 @@
 ![screenshot](src/assets/img/joystream-classic-color.png)
-A BitTorrent client, with faster speeds, streaming and paid seeding.
+
+######A BitTorrent client, with faster speeds, streaming and paid seeding.
 
 ###### Fast downloads
 Joystream Classic rewards seeders for providing bandwidth with micropayments, and this leads to much higher download speeds on all content.
